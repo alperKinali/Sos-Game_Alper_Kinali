@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff1bbda3-d26e-43e0-9a9e-17f829fd6dc2" name="Changes" comment="random bug fixed and completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sos-game-alperKinali/org/kodluyoruz/Blok.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sos-game-alperKinali/org/kodluyoruz/Blok.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sos-game-alperKinali/org/kodluyoruz/BlokKontrol.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sos-game-alperKinali/org/kodluyoruz/BlokKontrol.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sos-game-alperKinali/org/kodluyoruz/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sos-game-alperKinali/org/kodluyoruz/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sos-game-alperKinali/org/kodluyoruz/Pc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sos-game-alperKinali/org/kodluyoruz/Pc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sos-game-alperKinali/org/kodluyoruz/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sos-game-alperKinali/org/kodluyoruz/UI.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="40f0bdd9-4857-48c5-b3ee-83ea18359cec" />
+  </component>
+  <component name="ProjectId" id="2D9eE7mQRiYInoTfvUqoGRZzLwE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.kodluyoruz.Main" />
+      <module name="sos-game-alperKinali" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.kodluyoruz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff1bbda3-d26e-43e0-9a9e-17f829fd6dc2" name="Changes" comment="" />
+      <created>1660115613422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660115613422</updated>
+      <workItem from="1660115615141" duration="1194000" />
+      <workItem from="1660116863859" duration="107000" />
+      <workItem from="1660165596856" duration="701000" />
+      <workItem from="1660459336016" duration="3376000" />
+      <workItem from="1660548668624" duration="7816000" />
+      <workItem from="1660579067651" duration="772000" />
+      <workItem from="1660580026710" duration="2973000" />
+      <workItem from="1660744601326" duration="323000" />
+      <workItem from="1660765536531" duration="258000" />
+      <workItem from="1660819555415" duration="21000" />
+    </task>
+    <task id="LOCAL-00001" summary="testing added">
+      <created>1660165641394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660165641394</updated>
+    </task>
+    <task id="LOCAL-00002" summary="classes added">
+      <created>1660459482528</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660459482528</updated>
+    </task>
+    <task id="LOCAL-00003" summary="player Class completed">
+      <created>1660459578922</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660459578922</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Player class completed">
+      <created>1660459738308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660459738308</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Block class added">
+      <created>1660461193253</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660461193253</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Game class added">
+      <created>1660461265296</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660461265296</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added class where SOS checks are made">
+      <created>1660461401802</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660461401802</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finished">
+      <created>1660561620918</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660561620918</updated>
+    </task>
+    <task id="LOCAL-00009" summary="random bug fixed and completed">
+      <created>1660581394006</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660581394006</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testing added" />
+    <MESSAGE value="classes added" />
+    <MESSAGE value="player Class completed" />
+    <MESSAGE value="Player class completed" />
+    <MESSAGE value="Block class added" />
+    <MESSAGE value="Game class added" />
+    <MESSAGE value="Added class where SOS checks are made" />
+    <MESSAGE value="Finished" />
+    <MESSAGE value="random bug fixed and completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="random bug fixed and completed" />
+  </component>
+</project>
